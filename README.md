@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elkady</h1>
 <h3 align="center">A passionate junior software engineer who is interested in mobile app development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moelkady27&label=Profile%20views&color=0e75b6&style=flat" alt="moelkady27" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moelkady27" alt="moelkady27" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/el2ady27" target="blank"><img src="https://img.shields.io/twitter/follow/el2ady27?logo=twitter&style=for-the-badge" alt="el2ady27" /></a> </p>
-
 - 🔭 I’m currently focused on **Android and Competitive Programming**
 
 - 🌱 I’m currently learning **Android development using kotlin**
