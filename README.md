@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android development using kotlin**
 
-- 💬 Ask me about **Cross-Platform mobile app development**
+- 💬 Ask me about **Android Native mobile app development**
 
 - 📫 How to reach me **mohamedkhaledelkady11@gmail.com**
 
